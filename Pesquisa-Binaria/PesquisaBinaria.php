@@ -26,5 +26,6 @@
  echo pesquisa_binaria(10, $lista); 
  
  ## OBS: Na pesquisa binária, o tempo de execução é logarítmico, enquanto na pesquisa simples o tempo é linear
+ ## Dessa forma, o problema cresce em taxas diferentes
  ## O que é justamente a causa da pesquisa binária ser muito mais eficiente do que a simples
 ?>
