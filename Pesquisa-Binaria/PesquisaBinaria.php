@@ -23,5 +23,8 @@
 
  $lista = [1,3,5,7,9,11];  ## A lista deve ser ordenada! (seja de forma alfabética ou sequencial)
 
- echo pesquisa_binaria(10, $lista);
+ echo pesquisa_binaria(10, $lista); 
+ 
+ ## OBS: Na pesquisa binária, o tempo de execução é logarítmico, enquanto na pesquisa simples o tempo é linear
+ ## O que é justamente a causa da pesquisa binária ser muito mais eficiente do que a simples
 ?>
